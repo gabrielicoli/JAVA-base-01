@@ -12,7 +12,10 @@ public class Main {
 	}
 
 	private void start() {
-		// TODO Auto-generated method stub
+		
+		int idade=15;
+		
+		System.out.println("A idade é de : " + idade+ " anos");
 		
 	}
 
